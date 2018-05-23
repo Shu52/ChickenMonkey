@@ -1,6 +1,6 @@
 //chicken Monkey by Shuaib Sajid 5/23/18
 
-for (let i=0;i<=100;i++){
+for (let i=1;i<=100;i++){
  let int = "";
  if (i % 5 == 0)
  {
